@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: yourdockerhubusername/finch-frontend:latest
+          image: badhonparvej481/finch-frontend:latest
           ports:
             - containerPort: 80
           resources:
